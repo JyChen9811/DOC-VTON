@@ -1,5 +1,4 @@
-# SGOM
-ECCV-2022
+# DOC-VTON
 
 # Checkpoints Downlowd Address
 [Checkpoints for Test](https://drive.google.com/file/d/1yj8khxliGEcEfFLhT_NJ3zUYN1UlV1t1/view?usp=sharing)
