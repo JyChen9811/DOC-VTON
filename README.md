@@ -43,4 +43,4 @@ We provide visualization results of various state-of-the-art methods (e.g. CP-VT
 [Different results](https://drive.google.com/file/d/1loiMvddHoRi7-eBz4qy45f3CgfFiGCyT/view?usp=sharing)
 
 ## Auxiliary test data
-We provide [densepose](https://drive.google.com/file/d/1LiiuKvNLTtmQ3WKSxpLlP8NL10fO04UT/view?usp=sharing) results of VITON test imgs.
+We provide [densepose results](https://drive.google.com/file/d/1LiiuKvNLTtmQ3WKSxpLlP8NL10fO04UT/view?usp=sharing) of VITON test imgs.
