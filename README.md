@@ -1,6 +1,6 @@
 # DOC-VTON
 
-## Codes for OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup (TMM 2022)
+## Official Codes for OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup (TMM 2022)
 
 
 ## Our Environment
@@ -31,7 +31,7 @@ conda install cupy     or     pip install cupy==6.0.0
 
 pip install opencv-python
 
-## Script
+## Test Script
 python test_w_enhance.py --name demo --resize_or_crop None --batchSize 1 --gpu_ids=1
 
 ## Checkpoints Downlowd Address
