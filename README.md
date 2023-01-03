@@ -26,6 +26,8 @@ We provide visualization results of various state-of-the-art methods to facilita
 ## Auxiliary test data
 We provide [densepose results](https://drive.google.com/file/d/1LiiuKvNLTtmQ3WKSxpLlP8NL10fO04UT/view?usp=sharing) of VITON test imgs.
 
+We reprocess the densepose results and human parsing results of VITON-HD (Training and Testing dataset). You can download them through [Baiduyun]
+
 ## Tips for Coding
 We recommend using [PF-AFN](https://github.com/geyuying/PF-AFN) as codebase, which contains tensorboard, DDP training set, and nice code.
 
