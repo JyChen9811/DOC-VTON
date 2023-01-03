@@ -1,9 +1,9 @@
 # Awesome Virtual Tryon
 
 ## Visual Comparison
-We provide visualization results of various state-of-the-art methods (e.g. CP-VTON, CP-VTON+, ClothFlow, ACGPN, PF-AFN, DCTON, RT-VTON and our DOC-VTON) to facilitate your experimental comparisons.
+We provide visualization results of various state-of-the-art methods to facilitate your experimental comparisons.
 
-[Visualization results](https://drive.google.com/file/d/1loiMvddHoRi7-eBz4qy45f3CgfFiGCyT/view?usp=sharing)
+[Visualization results](https://drive.google.com/file/d/1loiMvddHoRi7-eBz4qy45f3CgfFiGCyT/view?usp=sharing) of CP-VTON, CP-VTON+, ClothFlow, ACGPN, PF-AFN, DCTON, RT-VTON and our DOC-VTON.
 
 <p float="center">
 <img src="Visual_comparison.png" width="800px"/>
