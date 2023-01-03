@@ -1,6 +1,4 @@
-# DOC-VTON
-
-## Official Codes for OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup (TMM 2022)
+# Awesome Virtual Tryon
 
 ## Visual Comparison
 We provide visualization results of various state-of-the-art methods (e.g. CP-VTON, CP-VTON+, ClothFlow, ACGPN, PF-AFN, DCTON, RT-VTON and our DOC-VTON) to facilitate your experimental comparisons.
@@ -23,6 +21,13 @@ We provide visualization results of various state-of-the-art methods (e.g. CP-VT
 
 ## Auxiliary test data
 We provide [densepose results](https://drive.google.com/file/d/1LiiuKvNLTtmQ3WKSxpLlP8NL10fO04UT/view?usp=sharing) of VITON test imgs.
+
+
+# DOC-VTON
+
+## Official Codes for OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup (TMM 2022)
+
+
 
 
 ## Our Environment
