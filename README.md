@@ -5,7 +5,9 @@ We provide visualization results of various state-of-the-art methods (e.g. CP-VT
 
 [Different results](https://drive.google.com/file/d/1loiMvddHoRi7-eBz4qy45f3CgfFiGCyT/view?usp=sharing)
 
-
+<p float="center">
+<img src="image/Visual_comparison" width="800px"/>
+  
 | Model             | Published                                    | Code                                                         | FID                                                       |
 | ----------------- | -------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | CP-VTON            | [ECCV2018](https://arxiv.org/pdf/1807.07688.pdf) | [Code](https://github.com/sergeywong/cp-vton)                                                     | 24.43                    |
