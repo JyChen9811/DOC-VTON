@@ -6,7 +6,7 @@ We provide visualization results of various state-of-the-art methods (e.g. CP-VT
 [Different results](https://drive.google.com/file/d/1loiMvddHoRi7-eBz4qy45f3CgfFiGCyT/view?usp=sharing)
 
 <p float="center">
-<img src="image/Visual_comparison" width="800px"/>
+<img src="Visual_comparison.png" width="800px"/>
   
 | Model             | Published                                    | Code                                                         | FID                                                       |
 | ----------------- | -------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
