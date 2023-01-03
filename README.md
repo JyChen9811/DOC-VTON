@@ -8,6 +8,8 @@ We provide visualization results of various state-of-the-art methods (e.g. CP-VT
 <p float="center">
 <img src="Visual_comparison.png" width="800px"/>
   
+------
+
 | Model             | Published                                    | Code                                                         | FID                                                       |
 | ----------------- | -------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | CP-VTON            | [ECCV2018](https://arxiv.org/pdf/1807.07688.pdf) | [Code](https://github.com/sergeywong/cp-vton)                                                     | 24.43                    |
@@ -24,6 +26,8 @@ We provide visualization results of various state-of-the-art methods (e.g. CP-VT
 ## Auxiliary test data
 We provide [densepose results](https://drive.google.com/file/d/1LiiuKvNLTtmQ3WKSxpLlP8NL10fO04UT/view?usp=sharing) of VITON test imgs.
 
+##Tips
+We recommend using [PF-AFN](https://github.com/geyuying/PF-AFN) as codebase, which contains tensorboard, DDP training set, and nice code.
 
 # DOC-VTON
 
