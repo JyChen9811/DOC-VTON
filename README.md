@@ -51,7 +51,6 @@ cupy 6.0.0
 
 opencv-python 4.5.1
 
-4 v100 GPU for training; 1 v100 GPU for test
 
 python 3.6
 
