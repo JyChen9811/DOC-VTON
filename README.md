@@ -19,7 +19,7 @@ We provide visualization results of various state-of-the-art methods to facilita
 | DCTON       | [CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Disentangled_Cycle_Consistency_for_Highly-Realistic_Virtual_Try-On_CVPR_2021_paper.pdf)    | [Code](https://github.com/ChongjianGE/DCTON)            | 14.82 |
 | PF-AFN             | [CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf)    | [Code](https://github.com/geyuying/PF-AFN)                        | 10.09                             |
 | RT-VTON            | [CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Full-Range_Virtual_Try-On_With_Recurrent_Tri-Level_Transform_CVPR_2022_paper.pdf)    | -                        | 11.66                             |
-| DOC-VTON            | TMM2022    | [Code](https://github.com/JyChen9811/DOC-VTON)                        | 9.54                           |
+| DOC-VTON            | [TMM2022](https://arxiv.org/pdf/2301.00965.pdf)    | [Code](https://github.com/JyChen9811/DOC-VTON)                        | 9.54                           |
 
 ------
 
