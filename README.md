@@ -72,3 +72,29 @@ python test_w_enhance.py --name demo --resize_or_crop None --batchSize 1 --gpu_i
 [Checkpoints for Test](https://drive.google.com/file/d/1yj8khxliGEcEfFLhT_NJ3zUYN1UlV1t1/view?usp=sharing)
 
 
+## License
+The use of this code is RESTRICTED to non-commercial research and educational purposes.
+
+
+## Citation
+If our code is helpful to your work, please cite:
+```
+@article{2023occlumix,
+  title={OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup},
+  author={Yang, Zhijing and Chen, Junyang and Shi, Yukai and Li, Hao and Chen, Tianshui and Lin, Liang},
+  journal={arXiv preprint arXiv:2301.00965},
+  year={2023}
+}
+```
+```
+@article{2023occlumix,
+  author={Yang, Zhijing and Chen, Junyang and Shi, Yukai and Li, Hao and Chen, Tianshui and Lin, Liang},
+  journal={IEEE Transactions on Multimedia}, 
+  title={OccluMix: Towards De-Occlusion Virtual Try-On by Semantically-Guided Mixup}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TMM.2023.3234399}}
+```
+
