@@ -77,7 +77,7 @@ The use of this code is RESTRICTED to non-commercial research and educational pu
 
 
 ## Citation
-If our code is helpful to your work, please cite:
+Please cite if our work is useful for your research:
 ```
 @article{2023occlumix,
   title={OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup},
